@@ -7,3 +7,12 @@
 #### :heavy_check_mark: Final resutl
 
 ![Alt Text](assets/example.gif)
+
+# Author
+
+Developed with :heart: **deusimardamiao** :man_technologist: my social media [Linkedin](https://www.linkedin.com/in/deusimardamiao/)
+
+# Reference
+
+- [Rocketseat](https://blog.rocketseat.com.br/)
+- [Aula](https://www.youtube.com/watch?v=bJVp_vlvMwQ&t=2711s)
